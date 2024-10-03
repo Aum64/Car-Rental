@@ -20,3 +20,24 @@ Add and view rental cars
 Add and list driver records
 View overall bookings
 Addition of extra charges (for crossing due dates)
+
+**Database Name: carrentalp**
+
+**Developed by Aum Shukla**
+
+**Recommended PHP Version 5.6.3 and 7.4.12**
+
+
+**Customer Login Details**
+
+Username: lucas
+Password: password
+
+
+**Employee Login Details**
+
+Username: harry
+Password: password
+
+Username: jenny
+Password: jenny
